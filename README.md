@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! Jay Boricha Here.<br>-Currently I am learning full stack Web development. <br>-I am looking forward to work on OpenSource projects.<br>-I have decent knowledge of C,C++CHTML, CSS,JS.<br>
+Hey! Jay Boricha Here.<br>-Currently I am learning full stack Web development. <br>-I am looking forward to work on OpenSource projects.
 
 
 ## 🌐 Socials:
